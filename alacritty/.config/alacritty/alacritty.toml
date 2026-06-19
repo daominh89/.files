@@ -1,0 +1,22 @@
+[general]
+import = [
+     "~/.config/alacritty/themes/noctalia.toml"
+]
+
+
+[window]
+opacity = 0.8
+padding = { x = 12, y = 12 }
+decorations = "None"
+dynamic_title = true
+
+[font]
+normal = { family = "Adwaita Mono", style="Bold" }
+size = 11
+
+[cursor]
+style = "Underline"
+blink_interval = 500
+
+[scrolling]
+history = 10000

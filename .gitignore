@@ -1,0 +1,9 @@
+.files/librewolf/.config/librewolf/librewolf/*/
+.files/librewolf/.config/librewolf/librewolf/*/chrome/*
+!.files/librewolf/.config/librewolf/librewolf/*/chrome/userChrome.css
+!.files/librewolf/.config/librewolf/librewolf/*/chrome/userContent.css
+
+.files/discord/
+.files/libvirt/
+.files/mozilla/
+.files/vesktop/
